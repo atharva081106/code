@@ -1,5 +1,5 @@
-export ZONE=us-west4-c
-export ZONE_2=us-west4-b
+export ZONE=us-east1-b
+export ZONE_2=us-east1-c
 
 export REGION="${ZONE%-*}"
 
